@@ -1,5 +1,3 @@
-// lib/custom_widgets_library.dart
-
 library custom_widgets_library;
 
 export 'custom_button.dart';
