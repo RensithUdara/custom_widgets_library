@@ -1,7 +1,7 @@
 name: custom_widgets_library
 description: "A Flutter package providing a library of reusable custom widgets."
 version: 0.0.1
-homepage: https://github.com/your_username/custom_widgets_library 
+homepage: https://github.com/RensithUdara/custom_widgets_library
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
